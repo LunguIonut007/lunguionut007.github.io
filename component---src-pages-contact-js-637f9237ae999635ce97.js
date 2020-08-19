@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"Cuy+":function(e,n,a){"use strict";a.r(n),a.d(n,"default",(function(){return o}));var t=a("q1tI"),l=a.n(t),u=a("Kvkj");function o(){return l.a.createElement(u.a,null,l.a.createElement("h1",null,"I'd love to talk! Email me at the address below"),l.a.createElement("p",null,l.a.createElement("a",{href:"mailto:lungu.ioan98@gmail.com"},"lungu.ioan98@gmail.com")))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-637f9237ae999635ce97.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return u}));var a=t("q1tI"),l=t.n(a),r=t("Kvkj");function u(){return l.a.createElement(r.a,null,l.a.createElement("h1",null,"About me"),l.a.createElement("p",null,"I’m a software developer at Knolyx and Gentlab. Just finished my degree at Babes-Bolyai University."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-a7c84a4d3998fac52ae8.js.map
