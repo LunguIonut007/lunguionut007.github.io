@@ -2,37 +2,37 @@ const features = [
   {
     name: 'Professional experience',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
-    icon: 'i',
-  },
-  {
-    name: 'React',
-    description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'I\'am a fullstack programmer with 5 year of experience and a love of coding. I\'ve worked on multiple projects, including a learning platform and in the fintech industry.',
     icon: 'i',
   },
   {
     name: 'Java & Spring',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'I have work experience in java, spring, hibernate and the entire spring boot ecosystem. Started dabbing in go / java quarkus for Cloud Native Application projects',
+    icon: 'i',
+  },
+  {
+    name: 'React',
+    description:
+      'I\'ve fallen in love with react and it\'s ecosystem since react 13. Mobx state tree will rule the global state war.',
     icon: 'i',
   },
   {
     name: 'React native',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'I\'ve build mobile applications using react native on both ios and android.',
     icon: 'i',
   },
   {
     name: 'Dev ops',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'AWS, but digital ocean rules for hobby projects. Fan of let\'s encrypt, nginx, caddy and docker.',
     icon: 'i',
   },
   {
-    name: 'Project management',
+    name: 'What about X?',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Kafka, rabbitmq, microservices, grafana, prometheus, docker, k8, and other buzz words.',
     icon: 'i',
   },
 ]
