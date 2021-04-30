@@ -36,8 +36,4 @@ jobs:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: out # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
-      - name: Create .nojekyll file
-        uses: "finnp/create-file-action@master"
-        env:
-          FILE_NAME: ".nojekyll"
-          FILE_DATA: ""
+          clean-exclude: .nojekyll
